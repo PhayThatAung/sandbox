@@ -1,1 +1,1 @@
-"""Ricky"""
+print(f"Ricky")
